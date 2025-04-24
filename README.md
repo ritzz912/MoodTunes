@@ -2,7 +2,7 @@
 
 A smart application that analyzes your facial expressions in real-time and recommends music to match your mood using the FER2013 dataset and Spotify integration.
 
-![Project Preview](./image/demo.jpeg)
+![Project Preview](./image/demo.png)
 
 ## Overview
 
